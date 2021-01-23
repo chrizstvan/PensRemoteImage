@@ -1,3 +1,3 @@
 # RemoteImageView
 
-A description of this package.
+This is swift package manager contains functionality to fetch pens image remotely from url 
